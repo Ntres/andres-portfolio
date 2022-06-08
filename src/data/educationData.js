@@ -1,23 +1,22 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'Bootcamp 400h, Upgrade Hub',
+        course: 'Bootcamp Full Stack Developer',
+        startYear: '2021',
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
-        startYear: '2019',
-        endYear: '2021'
+        institution: 'CFGS - Ciclo Formativo de Grado Superior',
+        course: 'Desarrollo de Aplicaciones Multiplataforma',
+        startYear: '2013',
+        endYear: '2015'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
-        endYear: 'Present'
+        institution: 'CFGM - Ciclo Formativo de Grado Medio',
+        course: 'Sistemas Microinformáticos y Redes',
+        startYear: '2010',
+        endYear: '2012'
     },
 ]

@@ -1,4 +1,5 @@
-import image from '../assets/Andres2.JPG'
+// import image from '../assets/Andres2.JPG'
+import image from '../assets/profile-pic.png'
 
 export const headerData = {
     name: 'Andrés Fabregat Nogueras',

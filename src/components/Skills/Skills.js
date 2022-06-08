@@ -29,8 +29,7 @@ function Skills() {
                         pauseOnHover={true}
                         pauseOnClick={true} 
                         delay={0}
-                        play={true} 
-                        direction="left"
+                        play={true}
                     >
                         {skillsData.map((skill, id) => (
                             <div className="skill--box" key={id} style={skillBoxStyle}>

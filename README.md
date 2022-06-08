@@ -35,10 +35,8 @@
     - SKILLS
     - EXPERIENCE
     - PROJECTS 
-    - Achievements <br />
 - SERVICES 
     - TESTIMONIALS <br />
-- BLOG
 - CONTACTS 
 
 <br /><br />
@@ -201,19 +199,9 @@ yarn start
 │   │   ├── About
 │   │   │   ├── About.css
 │   │   │   └── About.js
-│   │   ├── Achievements
-│   │   │   ├── Achievements.css
-│   │   │   └── Achievements.js
-│   │   │   └── AchievementCard.js
 │   │   ├── BackToTop
 │   │   │   ├── BackToTop.css
 │   │   │   └── BackToTop.js
-│   │   ├── Blog
-│   │   │   ├── Blog.css
-│   │   │   ├── Blog.js
-│   │   │   └── SingleBlog
-│   │   │       ├── SingleBlog.css
-│   │   │       └── SingleBlog.js
 │   │   ├── Contacts
 │   │   │   ├── Contacts.css
 │   │   │   └── Contacts.js
@@ -257,8 +245,6 @@ yarn start
 │   │   └── ThemeContext.js
 │   ├── data
 │   │   ├── aboutData.js
-│   │   ├── achievementData.js
-│   │   ├── blogData.js
 │   │   ├── contactsData.js
 │   │   ├── educationData.js
 │   │   ├── experienceData.js
@@ -272,9 +258,6 @@ yarn start
 │   ├── index.css
 │   ├── index.js
 │   ├── pages
-│   │   ├── Blog
-│   │   │   ├── BlogPage.css
-│   │   │   └── BlogPage.js
 │   │   ├── Main
 │   │   │   └── Main.js
 │   │   ├── Project
@@ -332,13 +315,9 @@ export const headerData = {
 
 > #### Experience - [`src/data/experienceData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/experienceData.js)
 
-> #### Achievements - [`src/data/achievementData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/achievementData.js)
-
 > #### Services - [`src/data/servicesData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/servicesData.js)
 
 > #### Testimonials - [`src/data/testimonialsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/testimonialsData.js)
-
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/blogData.js)
 
 > #### Contact Details - [`src/data/contactsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/contactsData.js)
 
@@ -477,7 +456,6 @@ export const educationData = [
 # Upcoming Features :construction:
 - Light/Dark theme toggle
 - More illustrations to choose from
-- Achievements and Awards section
 - More fonts to choose from
 
 
